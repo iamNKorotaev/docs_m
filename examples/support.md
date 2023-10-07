@@ -6,18 +6,16 @@
 
 ### Marzban&#x20;
 
-{% @github-files/github-code-block %}
+[https://github.com/Gozargah/Marzban#donation](https://github.com/Gozargah/Marzban#donation)
 
 ### Документация docs.marzban.ru&#x20;
 
 [https://www.tinkoff.ru/cf/9jOvjAgXLHX](https://www.tinkoff.ru/cf/9jOvjAgXLHX)
 
-[ ](https://www.tinkoff.ru/cf/9jOvjAgXLHX)
-
 ### Streisand
 
-{% embed url="https://streisand.gitbook.io/app/overview/donate" %}
+[https://streisand.gitbook.io/app/overview/donate](https://streisand.gitbook.io/app/overview/donate)
 
 ### InvisibleMan&#x20;
 
-{% @github-files/github-code-block %}
+[https://github.com/InvisibleManVPN/InvisibleMan-XRayClient#donation](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient#donation)

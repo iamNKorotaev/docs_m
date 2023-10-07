@@ -17,13 +17,15 @@
 
 ## Примеры <a href="#examples" id="examples"></a>
 
-* [Поддержка](examples/podderzhka.md)
 * [Получение SSL](examples/get-ssl.md)
 * [Подключение SSL](examples/ssl-enable.md)
 * [Бэкап данных](examples/backup.md)
 * [Убираем рекламу с Pi-Hole](examples/ads-remove-with-pihole.md)
+* [Убираем рекламу с AdGuardDNS](examples/ads-remove-with-adguarddns.md)
 * [Переход на DEV  версию](examples/change-marzban-main-tree-on-dev.md)
+* [Сниппеты](examples/snippets.md)
 * [Все на одном порту](examples/all-in-one-port.md)
+* [Поддержка](examples/support.md)
 * [Меняем ядро xray](examples/change-xray-version.md)
 * [CloudFlare Warp](examples/cloudflare-warp.md)
 * [URL Scheme](examples/url-scheme.md)

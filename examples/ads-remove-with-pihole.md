@@ -18,11 +18,11 @@ curl -sSL https://install.pi-hole.net | bash
 
 При достижения этапа STATIC IP, нам необходимо выбрать вариант "Продолжить" слева Продолжайте вводить "Yes" до завершения установки&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 В конце установки вы получите адрес и пароль (вы можете изменить пароль)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Запустите pi-hole
 

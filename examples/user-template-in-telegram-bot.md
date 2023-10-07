@@ -28,7 +28,7 @@ marzban restart
 
 Идем в раздел «`user_templates`» И выбираем «`Add User Template`». Внутри открытого спойлера нажимаем  «`Try it out`»
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Вводим конфигурацию для пользовательского шаблона:
 
