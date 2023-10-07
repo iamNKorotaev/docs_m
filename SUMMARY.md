@@ -30,6 +30,7 @@
 * [CloudFlare Warp](examples/cloudflare-warp.md)
 * [URL Scheme](examples/url-scheme.md)
 * [Переход на MySQL](examples/change-bd-on-mysql.md)
+* [Ограничение пользователей](examples/users\_limit.md)
 * [Варианты inbound](examples/all\_inbounds.md)
 * [Исправляем ошибку 403](examples/fix-403-error.md)
 * [Пользовательский шаблон в Telegram](examples/user-template-in-telegram-bot.md)
