@@ -25,7 +25,7 @@
 * [Переход на DEV  версию](examples/change-marzban-main-tree-on-dev.md)
 * [Сниппеты](examples/snippets.md)
 * [Все на одном порту](examples/all-in-one-port.md)
-* [Поддержка](examples/support.md)
+* [⭐ Поддержка](examples/support.md)
 * [Меняем ядро xray](examples/change-xray-version.md)
 * [CloudFlare Warp](examples/cloudflare-warp.md)
 * [URL Scheme](examples/url-scheme.md)
