@@ -35,6 +35,8 @@ layout:
 
 Устанавливаем acme.sh
 
+EMAIL = Ваш email(можно любую случайную почту)
+
 ```sh
 curl https://get.acme.sh | sh -s email=EMAIL
 ```
