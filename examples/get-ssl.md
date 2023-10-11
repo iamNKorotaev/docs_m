@@ -33,6 +33,8 @@ layout:
 <pre class="language-bash"><code class="lang-bash"><strong>apt install cron &#x26;&#x26; apt install socat 
 </strong></code></pre>
 
+Устанавливаем acme.sh
+
 ```sh
 curl https://get.acme.sh | sh -s email=EMAIL
 ```
