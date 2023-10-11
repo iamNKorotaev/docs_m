@@ -28,6 +28,11 @@ layout:
 
 ## Получение сертификата с acme.sh <a href="#acme.sh" id="acme.sh"></a>
 
+Устанавливаем нужный софт
+
+apt install cron && apt install socat&#x20;
+
+\
 Устанавливаем acme.sh
 
 ```sh
