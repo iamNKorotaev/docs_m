@@ -56,3 +56,6 @@ clashx://install-config?url=URL
 clash://install-config?url=URL
 ```
 
+Hiddify
+
+hiddify://install-config/?url=
