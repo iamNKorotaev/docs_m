@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Введение](README.md)
+* [Page](README.md)
+* [Введение](<README (1).md>)
 
 ## Начало <a href="#start" id="start"></a>
 
